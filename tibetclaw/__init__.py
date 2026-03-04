@@ -39,13 +39,12 @@ With LangChain::
 Standards:
     - IETF draft-vandemeent-tibet-provenance-00
     - IETF draft-vandemeent-jis-identity-00
-    - OWASP LLM Top 10 (LLM06: Excessive Agency)
-    - EU AI Act, NIS2, GDPR compliant
+    - Security-informed design (OWASP LLM Top 10 awareness)
 
 One love, one fAmIly.
 """
 
-__version__ = "0.3.0"
+__version__ = "0.3.1"
 __author__ = "Jasper van de Meent & Root AI"
 __email__ = "team@humotica.com"
 
